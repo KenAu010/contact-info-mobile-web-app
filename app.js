@@ -12,6 +12,7 @@ function initialize() {
             }
         }
     }
+    
 
     document.getElementById("status").innerHTML = status;
 
